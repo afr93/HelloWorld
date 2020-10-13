@@ -8,6 +8,6 @@ public class Ansatt {
 
     }
     public void skrivUtFulltNavn(){
-        System.out.println(this.fornavn+" "+this.etternavn);
+        System.out.println(this.fornavn+" "+this.etternavn+" er med i prosjektet");
     }
 }
